@@ -1,6 +1,6 @@
 ## Hi! I'm Artimice🪼
 🎓 U3 <b>Computer Engineering</b> student at McGill University<br>
-💫 Strong interest in <b>full-stack development</b>, <b>computer vision</b> and <b>project/product management</b><br>
+💫 Strong interest in <b>full-stack development</b> and <b>computer vision</b><br>
 💼 Currently working as a <b>Project Manager Intern</b> at the <i>Quebec Office of the French Language (OQLF)</i> <br>
 🫧 Enjoy learning and finding solutions to real world problems, especially in terms of <b>accessibility</b><br>
 
