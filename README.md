@@ -1,8 +1,8 @@
 ## Hi! I'm Artimice🪼
-<p>🎓 U3 <b>Computer Engineering</b> student at McGill University</p>
-<p>💫 Strong interest in <b>full-stack development</b>, <b>computer vision</b> and <b>project/product management</b></p>
-<p>💼 Currently working as a <b>Project Manager Intern</b> at the <i>Quebec Office of the French Language (OQLF)</i> <p>
-<p>🫧 Enjoy learning and finding solutions to real world problems, especially in terms of <b>accessibility</b></p>
+🎓 U3 <b>Computer Engineering</b> student at McGill University<br>
+💫 Strong interest in <b>full-stack development</b>, <b>computer vision</b> and <b>project/product management</b><br>
+💼 Currently working as a <b>Project Manager Intern</b> at the <i>Quebec Office of the French Language (OQLF)</i> <br>
+🫧 Enjoy learning and finding solutions to real world problems, especially in terms of <b>accessibility</b><br>
 
 <!--
 **artimirchi/artimirchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
